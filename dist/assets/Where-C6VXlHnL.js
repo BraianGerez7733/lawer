@@ -1,1 +1,0 @@
-import{L as s}from"./LocalSEO-Bllw0AeW.js";import{_ as t,c as o,a,g as c,o as r}from"./index-CtHsEHMw.js";const n={class:"section"},_={__name:"Where",setup(p){return(d,e)=>(r(),o("section",n,[e[0]||(e[0]=a("h1",{class:"section-title"},"¿Dónde estamos?",-1)),c(s)]))}},m=t(_,[["__scopeId","data-v-1711f3d9"]]);export{m as default};

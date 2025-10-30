@@ -1,1 +1,0 @@
-import{S as s}from"./ServicesGrid-Bi0gQFhv.js";import{_ as t,c as o,a as c,g as r,o as a}from"./index-CtHsEHMw.js";import"./services-C44DqXO9.js";const i={class:"section"},_={__name:"Services",setup(n){return(p,e)=>(a(),o("section",i,[e[0]||(e[0]=c("h1",{class:"section-title"},"Servicios",-1)),r(s)]))}},f=t(_,[["__scopeId","data-v-4e587b7f"]]);export{f as default};
