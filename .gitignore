@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Carpeta de distribución o build
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuraciones de editor/IDE
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+
+# Cache de herramientas (ej. bundlers)
+.cache/
